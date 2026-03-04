@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Rain
   m_EditorClassIdentifier: 
   showEditor: 0
-  showEffectControls: 0
-  showCloudControls: 1
+  showEffectControls: 1
+  showCloudControls: 0
   showFlatCloudControls: 0
   showFogControls: 0
   showSkyControls: 0
@@ -24,7 +24,7 @@ MonoBehaviour:
   showAudioControls: 0
   showAmbientAudioControls: 0
   showWeatherAudioControls: 0
-  showLightningControls: 0
+  showLightningControls: 1
   cloudsOverride:
     ambientLightIntensity: 1
     coverage: 0.51
